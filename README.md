@@ -28,6 +28,8 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsadebnath&show_icons=true&theme=dark&locale=en&layout=compact" alt="utsadebnath" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utsadebnath&show_icons=true&theme=dark&locale=en" alt="utsadebnath" /></p>
 
+<img src="https://raw.githubusercontent.com/utsadebnath/utsadebnath/output/snake.svg" alt="Snake animation" />
 
+###
 
 
